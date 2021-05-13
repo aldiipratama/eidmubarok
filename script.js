@@ -37,5 +37,5 @@ right.addEventListener('click', function () {
 })
 
 let footer = document.getElementById("credit");
-footer.innerHTML = "Aldipratama";
+footer.innerHTML = sender;
 footer.href = "https://www.instagram.com/rinaldi_r7/";
